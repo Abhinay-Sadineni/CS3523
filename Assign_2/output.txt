@@ -1,0 +1,355 @@
+Open mp
+
+invalid sudoku
+
+The elapsed time is 0.002989 seconds
+Log:
+
+Thread 1:
+Thread1 checks ROW 0: valid 
+Thread1 checks ROW 1: valid 
+Thread1 checks ROW 2: valid 
+Thread1 checks ROW 3: valid 
+Thread1 checks ROW 4: valid 
+Thread1 checks ROW 5: valid 
+Thread1 checks ROW 6: valid 
+Thread1 checks ROW 7: valid 
+Thread1 checks ROW 8: valid 
+Thread1 checks ROW 9: valid 
+Thread1 checks ROW 10: valid 
+Thread1 checks ROW 11: valid 
+Thread1 checks ROW 12: valid 
+Thread1 checks ROW 13: valid 
+Thread1 checks ROW 14: valid 
+Thread1 checks ROW 15: valid 
+Thread1 checks ROW 16: valid 
+Thread1 checks ROW 17: valid 
+Thread1 checks ROW 18: valid 
+
+
+Thread 2:
+Thread2 checks ROW 19: valid 
+Thread2 checks ROW 20: valid 
+Thread2 checks ROW 21: valid 
+Thread2 checks ROW 22: valid 
+Thread2 checks ROW 23: valid 
+Thread2 checks ROW 24: valid 
+Thread2 checks ROW 25: valid 
+Thread2 checks ROW 26: valid 
+Thread2 checks ROW 27: valid 
+Thread2 checks ROW 28: valid 
+Thread2 checks ROW 29: valid 
+Thread2 checks ROW 30: valid 
+Thread2 checks ROW 31: valid 
+Thread2 checks ROW 32: valid 
+Thread2 checks ROW 33: valid 
+Thread2 checks ROW 34: valid 
+Thread2 checks ROW 35: valid 
+Thread2 checks ROW 36: valid 
+Thread2 checks ROW 37: valid 
+
+
+Thread 3:
+Thread3 checks ROW 38: valid 
+Thread3 checks ROW 39: valid 
+Thread3 checks ROW 40: valid 
+Thread3 checks ROW 41: valid 
+Thread3 checks ROW 42: valid 
+Thread3 checks ROW 43: valid 
+Thread3 checks ROW 44: valid 
+Thread3 checks ROW 45: valid 
+Thread3 checks ROW 46: valid 
+Thread3 checks ROW 47: valid 
+Thread3 checks ROW 48: valid 
+Thread3 checks ROW 49: valid 
+Thread3 checks ROW 50: valid 
+Thread3 checks ROW 51: valid 
+Thread3 checks ROW 52: valid 
+Thread3 checks ROW 53: valid 
+Thread3 checks ROW 54: valid 
+Thread3 checks ROW 55: valid 
+Thread3 checks ROW 56: valid 
+
+
+Thread 4:
+Thread4 checks ROW 57: valid 
+Thread4 checks ROW 58: valid 
+Thread4 checks ROW 59: valid 
+Thread4 checks ROW 60: valid 
+Thread4 checks ROW 61: valid 
+Thread4 checks ROW 62: valid 
+Thread4 checks ROW 63: valid 
+Thread4 checks ROW 64: valid 
+Thread4 checks ROW 65: valid 
+Thread4 checks ROW 66: valid 
+Thread4 checks ROW 67: valid 
+Thread4 checks ROW 68: valid 
+Thread4 checks ROW 69: valid 
+Thread4 checks ROW 70: valid 
+Thread4 checks ROW 71: valid 
+Thread4 checks ROW 72: valid 
+Thread4 checks ROW 73: valid 
+Thread4 checks ROW 74: valid 
+Thread4 checks ROW 75: valid 
+
+
+Thread 5:
+Thread5 checks ROW 76: valid 
+Thread5 checks ROW 77: valid 
+Thread5 checks ROW 78: valid 
+Thread5 checks ROW 79: valid 
+Thread5 checks ROW 80: valid 
+Thread5 checks ROW 81: valid 
+Thread5 checks ROW 82: valid 
+Thread5 checks ROW 83: valid 
+Thread5 checks ROW 84: valid 
+Thread5 checks ROW 85: valid 
+Thread5 checks ROW 86: valid 
+Thread5 checks ROW 87: valid 
+Thread5 checks ROW 88: valid 
+Thread5 checks ROW 89: valid 
+Thread5 checks ROW 90: valid 
+Thread5 checks ROW 91: valid 
+Thread5 checks ROW 92: valid 
+Thread5 checks ROW 93: valid 
+Thread5 checks ROW 94: valid 
+
+
+Thread 6:
+Thread6 checks ROW 95: valid 
+Thread6 checks ROW 96: valid 
+Thread6 checks ROW 97: valid 
+Thread6 checks ROW 98: valid 
+Thread6 checks ROW 99: valid 
+Thread6 checks COL 0: valid 
+Thread6 checks COL 1: valid 
+Thread6 checks COL 2: valid 
+Thread6 checks COL 3: valid 
+Thread6 checks COL 4: valid 
+Thread6 checks COL 5: valid 
+Thread6 checks COL 6: valid 
+Thread6 checks COL 7: valid 
+Thread6 checks COL 8: valid 
+Thread6 checks COL 9: valid 
+Thread6 checks COL 10: valid 
+Thread6 checks COL 11: valid 
+Thread6 checks COL 12: valid 
+Thread6 checks COL 13: valid 
+
+
+Thread 7:
+Thread7 checks COL 14: valid 
+Thread7 checks COL 15: valid 
+Thread7 checks COL 16: valid 
+Thread7 checks COL 17: valid 
+Thread7 checks COL 18: valid 
+Thread7 checks COL 19: valid 
+Thread7 checks COL 20: valid 
+Thread7 checks COL 21: valid 
+Thread7 checks COL 22: valid 
+Thread7 checks COL 23: valid 
+Thread7 checks COL 24: valid 
+Thread7 checks COL 25: valid 
+Thread7 checks COL 26: valid 
+Thread7 checks COL 27: valid 
+Thread7 checks COL 28: valid 
+Thread7 checks COL 29: valid 
+Thread7 checks COL 30: valid 
+Thread7 checks COL 31: valid 
+Thread7 checks COL 32: invalid 
+
+
+Thread 8:
+Thread8 checks COL 33: invalid 
+Thread8 checks COL 34: invalid 
+Thread8 checks COL 35: invalid 
+Thread8 checks COL 36: invalid 
+Thread8 checks COL 37: invalid 
+Thread8 checks COL 38: invalid 
+Thread8 checks COL 39: invalid 
+Thread8 checks COL 40: invalid 
+Thread8 checks COL 41: invalid 
+Thread8 checks COL 42: invalid 
+Thread8 checks COL 43: invalid 
+Thread8 checks COL 44: invalid 
+Thread8 checks COL 45: invalid 
+Thread8 checks COL 46: invalid 
+Thread8 checks COL 47: invalid 
+Thread8 checks COL 48: invalid 
+Thread8 checks COL 49: invalid 
+Thread8 checks COL 50: invalid 
+Thread8 checks COL 51: valid 
+
+
+Thread 9:
+Thread9 checks COL 52: valid 
+Thread9 checks COL 53: valid 
+Thread9 checks COL 54: valid 
+Thread9 checks COL 55: valid 
+Thread9 checks COL 56: valid 
+Thread9 checks COL 57: valid 
+Thread9 checks COL 58: valid 
+Thread9 checks COL 59: valid 
+Thread9 checks COL 60: valid 
+Thread9 checks COL 61: valid 
+Thread9 checks COL 62: valid 
+Thread9 checks COL 63: valid 
+Thread9 checks COL 64: valid 
+Thread9 checks COL 65: valid 
+Thread9 checks COL 66: valid 
+Thread9 checks COL 67: valid 
+Thread9 checks COL 68: valid 
+Thread9 checks COL 69: valid 
+Thread9 checks COL 70: valid 
+
+
+Thread 10:
+Thread10 checks COL 71: valid 
+Thread10 checks COL 72: valid 
+Thread10 checks COL 73: valid 
+Thread10 checks COL 74: valid 
+Thread10 checks COL 75: valid 
+Thread10 checks COL 76: valid 
+Thread10 checks COL 77: valid 
+Thread10 checks COL 78: valid 
+Thread10 checks COL 79: valid 
+Thread10 checks COL 80: valid 
+Thread10 checks COL 81: valid 
+Thread10 checks COL 82: valid 
+Thread10 checks COL 83: valid 
+Thread10 checks COL 84: valid 
+Thread10 checks COL 85: valid 
+Thread10 checks COL 86: valid 
+Thread10 checks COL 87: valid 
+Thread10 checks COL 88: valid 
+Thread10 checks COL 89: valid 
+
+
+Thread 11:
+Thread11 checks COL 90: valid 
+Thread11 checks COL 91: valid 
+Thread11 checks COL 92: valid 
+Thread11 checks COL 93: valid 
+Thread11 checks COL 94: valid 
+Thread11 checks COL 95: valid 
+Thread11 checks COL 96: valid 
+Thread11 checks COL 97: valid 
+Thread11 checks COL 98: valid 
+Thread11 checks COL 99: valid 
+Thread11 checks GRID 0: valid 
+Thread11 checks GRID 1: valid 
+Thread11 checks GRID 2: valid 
+Thread11 checks GRID 3: valid 
+Thread11 checks GRID 4: valid 
+Thread11 checks GRID 5: valid 
+Thread11 checks GRID 6: valid 
+Thread11 checks GRID 7: valid 
+Thread11 checks GRID 8: valid 
+
+
+Thread 12:
+Thread12 checks GRID 9: valid 
+Thread12 checks GRID 10: valid 
+Thread12 checks GRID 11: valid 
+Thread12 checks GRID 12: valid 
+Thread12 checks GRID 13: valid 
+Thread12 checks GRID 14: valid 
+Thread12 checks GRID 15: valid 
+Thread12 checks GRID 16: valid 
+Thread12 checks GRID 17: valid 
+Thread12 checks GRID 18: valid 
+Thread12 checks GRID 19: valid 
+Thread12 checks GRID 20: valid 
+Thread12 checks GRID 21: valid 
+Thread12 checks GRID 22: valid 
+Thread12 checks GRID 23: valid 
+Thread12 checks GRID 24: valid 
+Thread12 checks GRID 25: valid 
+Thread12 checks GRID 26: valid 
+Thread12 checks GRID 27: valid 
+
+
+Thread 13:
+Thread13 checks GRID 28: valid 
+Thread13 checks GRID 29: valid 
+Thread13 checks GRID 30: valid 
+Thread13 checks GRID 31: valid 
+Thread13 checks GRID 32: valid 
+Thread13 checks GRID 33: valid 
+Thread13 checks GRID 34: valid 
+Thread13 checks GRID 35: valid 
+Thread13 checks GRID 36: valid 
+Thread13 checks GRID 37: valid 
+Thread13 checks GRID 38: valid 
+Thread13 checks GRID 39: valid 
+Thread13 checks GRID 40: valid 
+Thread13 checks GRID 41: valid 
+Thread13 checks GRID 42: valid 
+Thread13 checks GRID 43: valid 
+Thread13 checks GRID 44: valid 
+Thread13 checks GRID 45: invalid 
+
+
+Thread 14:
+Thread14 checks GRID 46: invalid 
+Thread14 checks GRID 47: invalid 
+Thread14 checks GRID 48: invalid 
+Thread14 checks GRID 49: invalid 
+Thread14 checks GRID 50: invalid 
+Thread14 checks GRID 51: invalid 
+Thread14 checks GRID 52: invalid 
+Thread14 checks GRID 53: invalid 
+Thread14 checks GRID 54: invalid 
+Thread14 checks GRID 55: invalid 
+Thread14 checks GRID 56: invalid 
+Thread14 checks GRID 57: invalid 
+Thread14 checks GRID 58: invalid 
+Thread14 checks GRID 59: invalid 
+Thread14 checks GRID 60: invalid 
+Thread14 checks GRID 61: invalid 
+Thread14 checks GRID 62: invalid 
+Thread14 checks GRID 63: invalid 
+
+
+Thread 15:
+Thread15 checks GRID 64: valid 
+Thread15 checks GRID 65: valid 
+Thread15 checks GRID 66: valid 
+Thread15 checks GRID 67: valid 
+Thread15 checks GRID 68: valid 
+Thread15 checks GRID 69: valid 
+Thread15 checks GRID 70: valid 
+Thread15 checks GRID 71: valid 
+Thread15 checks GRID 72: valid 
+Thread15 checks GRID 73: valid 
+Thread15 checks GRID 74: valid 
+Thread15 checks GRID 75: valid 
+Thread15 checks GRID 76: valid 
+Thread15 checks GRID 77: valid 
+Thread15 checks GRID 78: valid 
+Thread15 checks GRID 79: valid 
+Thread15 checks GRID 80: valid 
+Thread15 checks GRID 81: valid 
+
+
+Thread 16:
+Thread16 checks GRID 82: valid 
+Thread16 checks GRID 83: valid 
+Thread16 checks GRID 84: valid 
+Thread16 checks GRID 85: valid 
+Thread16 checks GRID 86: valid 
+Thread16 checks GRID 87: valid 
+Thread16 checks GRID 88: valid 
+Thread16 checks GRID 89: valid 
+Thread16 checks GRID 90: valid 
+Thread16 checks GRID 91: valid 
+Thread16 checks GRID 92: valid 
+Thread16 checks GRID 93: valid 
+Thread16 checks GRID 94: valid 
+Thread16 checks GRID 95: valid 
+Thread16 checks GRID 96: valid 
+Thread16 checks GRID 97: valid 
+Thread16 checks GRID 98: valid 
+Thread16 checks GRID 99: valid 
+
+
